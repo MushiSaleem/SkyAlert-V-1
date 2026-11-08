@@ -1,0 +1,6 @@
+{
+  "name": "SkyAlert - MS Teams Flight Disruption Notification System",
+  "description": "Autonomous news & global disaster filtering system that detects global flight disruption events and dispatches real-time alerts exclusively to Microsoft Teams channels, filtering out low-level noise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
